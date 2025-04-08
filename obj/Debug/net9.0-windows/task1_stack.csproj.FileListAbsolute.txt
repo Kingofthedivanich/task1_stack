@@ -1,0 +1,14 @@
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\bin\Debug\net9.0-windows\task1_stack.exe
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\bin\Debug\net9.0-windows\task1_stack.deps.json
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\bin\Debug\net9.0-windows\task1_stack.runtimeconfig.json
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\bin\Debug\net9.0-windows\task1_stack.dll
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\bin\Debug\net9.0-windows\task1_stack.pdb
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\obj\Debug\net9.0-windows\task1_stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\obj\Debug\net9.0-windows\task1_stack.AssemblyInfoInputs.cache
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\obj\Debug\net9.0-windows\task1_stack.AssemblyInfo.cs
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\obj\Debug\net9.0-windows\task1_stack.csproj.CoreCompileInputs.cache
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\obj\Debug\net9.0-windows\task1_stack.dll
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\obj\Debug\net9.0-windows\refint\task1_stack.dll
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\obj\Debug\net9.0-windows\task1_stack.pdb
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\obj\Debug\net9.0-windows\task1_stack.genruntimeconfig.cache
+C:\Users\faust\Documents\vsu\vahtin\task1_stack\task1_stack\obj\Debug\net9.0-windows\ref\task1_stack.dll
